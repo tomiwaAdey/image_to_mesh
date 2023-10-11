@@ -1,0 +1,8 @@
+transformers
+Pillow
+requests
+ipython
+open3d
+torch
+matplotlib
+numpy
